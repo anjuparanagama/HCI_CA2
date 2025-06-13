@@ -82,8 +82,7 @@ const Header = () => {
                       : 'text-gray-700 hover:text-primary-600 hover:bg-gray-50'
                   }`}
                   onClick={() => setIsMenuOpen(false)}
-                  aria-current={isActive(item.href) ? 'page' : undefined}
-                >
+                  aria-current={isActive(item.href) ? 'page' : undefined} >
                   {item.name}
                 </Link>
               ))}

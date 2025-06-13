@@ -13,7 +13,7 @@ const Projects = () => {
       description: 'A weather forecasting web application that fetches real-time weather data using the OpenWeather API. It displays temperature, humidity, wind speed, and weather conditions in an interactive and visually appealing format.',
       technologies: ['HTML', 'CSS', 'JavaScript', 'OpenWeather API'],
       github: 'https://github.com/anjuparanagama/Meteo_Earth',
-      demo: '#',
+      demo: '',
       image: Weather,
       featured: true
     },
@@ -23,7 +23,7 @@ const Projects = () => {
       description: 'A web-based system that streamlines conference management by handling participant registrations, schedules, and email notifications. It includes an admin panel for event organizers and an automated email system using PHPMailer.',
       technologies: ['HTML', 'CSS', 'php', 'mySQL', 'phpMailer'],
       github: 'https://github.com/anjuparanagama/Conference_Day_Management_System',
-      demo: '#',
+      demo: '',
       image: Conference,
       featured: true
     },
@@ -33,7 +33,7 @@ const Projects = () => {
       description: 'A modern and eco-friendly website built using React, designed to promote sustainability and environmental awareness. It features interactive UI components, responsive design, and smooth navigation.',
       technologies: ['React', 'JavaScript', 'Tailwind CSS'],
       github: 'https://github.com/anjuparanagama/EcoVibe',
-      demo: 'https://weather-dashboard-demo.netlify.app',
+      demo: '',
       image: EcoVibe,
       featured: false
     },
@@ -43,17 +43,17 @@ const Projects = () => {
       description: 'A basic library management system built in Java to help manage book records, issue tracking, and user management. It provides a simple interface for adding, searching, and issuing books.',
       technologies: ['Html', 'Css'],
       github: 'https://github.com/anjuparanagama/Library_management_system',
-      demo: '#',
+      demo: '',
       image: Lmshtml ,
       featured: false
     },
     {
       id: 5,
       title: 'Simple Library Management System',
-      description: 'A basic A Python-based library management system designed to handle book inventory, user accounts, and book transactions efficiently. It supports basic CRUD operations and a user-friendly interface.library management system built in Java to help manage book records, issue tracking, and user management. It provides a simple interface for adding, searching, and issuing books.',
+      description: 'A basic A Python-based library management system designed to handle book inventory, user accounts, and book transactions efficiently. It supports basic CRUD operations and a user-friendly interface.',
       technologies: ['Python'],
       github: 'https://github.com/anjuparanagama/Simple_Library_management_system_using_python',
-      demo: '#',
+      demo: '',
       image: Lms,
       featured: false
     },
@@ -63,7 +63,7 @@ const Projects = () => {
       description: 'A A simple web application that generates QR codes for URLs, text, and other data. Users can customize the size and style of the QR codes and download them for use.',
       technologies: ['HTML', 'CSS', 'JavaScript'],
       github: 'https://github.com/anjuparanagama/QR-Code-Generator',
-      demo: '#',
+      demo: '',
       image: QRCode,
       featured: false
     }

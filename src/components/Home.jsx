@@ -28,13 +28,13 @@ const Home = () => {
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
-              <a href="/projects"
+              <a href="/Projects"
                 className="inline-flex items-center px-8 py-3 border border-transparent text-base font-medium rounded-lg text-white bg-primary-600 hover:bg-primary-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-primary-500 transition-all duration-200 transform hover:scale-105 shadow-lg hover:shadow-xl"
                 aria-label="View my projects" >
                 View My Work
               </a>
               
-              <a href="/contact"
+              <a href="/Contact"
                 className="inline-flex items-center px-8 py-3 border-2 border-primary-600 text-base font-medium rounded-lg text-primary-600 bg-white hover:bg-primary-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-primary-500 transition-all duration-200 transform hover:scale-105"
                 aria-label="Get in touch with me">
                 Get In Touch
